@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #0065c3;
+    display: flex;
+    padding: 0rem 1rem 0rem 0.5rem;
+    position: fixed;
+    width: 100%;
+}
+
+.logo1 {
+    padding: 1rem;
+    width: 5rem;
+    margin-right: 1.5rem;
+}
+
+.nav {
+    display: flex;
+    column-gap: 1.7rem;
+    margin-top: 1.6rem;
+    color: white;
+}
+
+.nav li {
+    font-size: medium;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+    list-style: none;
+    text-transform: uppercase;
+}
+
+.button {
+    font-size: 0.8rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+    background-color: #0065c3;
+    border: 2px solid white;
+    color: white;
+    align-self: center;
+    padding: 0.7rem 2rem 0.7rem 2rem;
+    border-radius: 10rem;
+    margin-left: auto
+}
+
+#PEPSI {
+    width: -webkit-fill-available;
+}
+
+.article {
+    color: white;
+    font-size: x-large;
+    align-self: center;
+    margin-left: auto;
+    margin-right: 0rem;
+}
+
+.button2 {
+    font-size: 0.7rem;
+    margin-right: 0.5rem;
+    font-family: sans-serif;
+    font-weight: 800;
+    background-color: #0065c3;
+    border: 1.5px solid white;
+    color: white;
+    align-self: center;
+    padding: 0.3rem 1.5rem 0.3rem 1.5rem;
+    border-radius: 10rem;
+    margin-left: 0rem;
+}
+
+#view {
+    margin-right: -1rem;
+}
+
+.footer {
+    background-color: #0065c3;
+    display: flex;
+    padding: 0;
+
+}
+
+.nav1 {
+    display: flex;
+    column-gap: 1.6rem;
+    margin-top: 1.6rem;
+    color: white;
+}
+
+.nav1 ul {
+    font-size: 0.9rem;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+    list-style: none;
+    text-transform: uppercase;
+    align-self: center;
+}
+
+.logo2 {
+    padding: 1rem;
+    width: 7rem;
+    height: 6rem;
+    align-self: center;
+}
+
+#icon {
+    margin-left: 1.5rem;
+    margin-top: 0.1rem;
+    display: flex;
+    column-gap: 1.1rem;
+}
